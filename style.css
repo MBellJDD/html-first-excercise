@@ -1,0 +1,52 @@
+.cabecera{
+    padding: 100px;
+    background: url(img/fondo.png);
+    height: 250px;
+    overflow: hidden;
+}
+h1{
+    color: white;
+    text-align: center;
+}
+.azul{
+    color: red;
+}
+.contenedor {
+    grid-template-columns: auto;
+}
+
+p{
+    text-align: center;
+}
+#onep{
+    align-content: center;
+    justify-content: center;
+    color: white;
+}
+h2{
+    text-align: center;
+}
+main{
+    height: 250px;
+    background-size: cover;
+}
+.tres{
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    background-color: gray;
+}
+
+nav{
+    padding: 50px;
+}
+.columna{
+    background: chocolate;
+    color: aliceblue;
+    padding: 20px;
+    width: 15%;
+    margin: 40px;
+}
+.padre{
+    display: flex;
+}
